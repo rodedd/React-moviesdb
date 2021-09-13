@@ -3,6 +3,6 @@
 ## About the project
 
 <img src="./screen1.png" alt="cientifico screenshot" width="800">
-Live: https://rodedd.github.io/spa-rickandmorty/
+Live: https://dreamy-ramanujan-ea82d7.netlify.app/
 
 ### Built with
