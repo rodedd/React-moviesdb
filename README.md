@@ -20,4 +20,4 @@ Live: https://dreamy-ramanujan-ea82d7.netlify.app/
   - Flexbox
   - Animations
 - Fetch API
-- Session Storage API
+- Web Storage API (Session Storage)
